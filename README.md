@@ -1,3 +1,3 @@
 # Intro Challenges Network
 
-Contains intro challenges to Network Forensics
+Contains intro or beginner Network challenges from Various CTFs.
